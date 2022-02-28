@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Hi, my name is Matteo Giaracuni, and I am a junior front-end developer student
 
 
@@ -13,6 +13,5 @@ Hi, my name is Matteo Giaracuni, and I am a junior front-end developer student
 -  TypeScrip
 -  Angular
 
-- 📫 visit my LinkedIn profile: www.linkedin.com/in/ma
-nuel-matteo-giaracuni5204a5231
--->
+- 📫 visit my LinkedIn profile: https://www.linkedin.com/in/manuel-matteo-giaracuni-5204a5231/
+
