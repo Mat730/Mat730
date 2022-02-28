@@ -1,16 +1,22 @@
 ### Hi there 👋
 
 <!--
-**Mat730/Mat730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, my name is Matteo Giaracuni, and I am a junior front-end developer student
+-->
+<hr>
+<!--
+- 🔭 I am currently working on an angular project
+- 🌱 I’m currently learning:
+-->
+<hr>
+<!--
+-  HTML5 CSS
+-  Javascript
+-  TypeScrip
+-  Angular
+-->
+<hr>
+<!--
+- 📫 visit my LinkedIn profile: www.linkedin.com/in/ma
+nuel-matteo-giaracuni5204a5231
 -->
